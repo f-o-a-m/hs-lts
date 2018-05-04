@@ -1,4 +1,4 @@
-name: lts-11.7-foam-1
+name: lts-11.7-foam-2
 resolver: lts-11.7
 
 packages:
