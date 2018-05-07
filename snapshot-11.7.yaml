@@ -1,4 +1,4 @@
-name: lts-11.7-foam-2
+name: lts-11.7-foam-3
 resolver: lts-11.7
 
 packages:
@@ -14,3 +14,5 @@ packages:
   commit: 77aa17e0e83da0a16fd8daf770833d6e00ca88e6
 - git: https://github.com/f-o-a-m/hs-web3
   commit: ad40cc153745296f614cb793b561cebd760f9040
+- git: https://github.com/f-o-a-m/servant-purescript
+  commit: 663f24a572867932946941f41e30146bdb59974d
