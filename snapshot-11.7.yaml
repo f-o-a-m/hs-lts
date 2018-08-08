@@ -17,11 +17,12 @@ packages:
   - composite-opaleye
 - git: https://github.com/tomjaguarpaw/haskell-opaleye
   commit: 77aa17e0e83da0a16fd8daf770833d6e00ca88e6
-- git: https://github.com/f-o-a-m/hs-web3
-  commit: 8498f1068e8efdeee9aa179eddb069e50609d476
+- git: https://github.com/f-o-a-m/hs-web3.git
+  commit: 82d755f453a9fde24be6fdbd8ec08131e1c4f7b2
 - git: https://github.com/f-o-a-m/purescript-bridge.git
-  commit: 2a2c8e34f580b7ec23dd6ef75a07439636bdbbc5 #better-generics
+  commit: 8b7fd3909d7f9b416e5976e1b76c1b04671d63b0
 - git: https://github.com/f-o-a-m/servant-purescript.git
+  commit: 50d666400f1cf0132794bdfc78f15307761ef20a
   commit: 50d666400f1cf0132794bdfc78f15307761ef20a
 - git: https://github.com/f-o-a-m/ipfs-api.git
   commit: aa8ae13fa31b3ec22822bed97e1f67498093c782
@@ -29,3 +30,9 @@ packages:
   commit: 9adf77e574cd830caa2cfd2c7afcd61ac0f039a2
 - git: https://github.com/gazay/faker.git
   commit: 8935346192e67631b97c1a52f6644ba5ed48a1a2
+- git: https://github.com/f-o-a-m/uuid.git
+  commit: f8f7bee57dd42ea57258ce4afe9870758bd027f5
+  subdirs:
+  - uuid
+  - uuid-types
+ 
