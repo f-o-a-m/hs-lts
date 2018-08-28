@@ -10,6 +10,9 @@ packages:
 - geohash-1.0.1
 - relapse-1.0.0.0
 - gimlh-0.1.3.0
+- amazonka-1.6.0
+- amazonka-core-1.6.0
+- amazonka-s3-1.6.0
 - git: https://github.com/blinky3713/composite
   commit: 94e0ee1bbeadbf229de619891ab38f94bcf12a84
   subdirs:
@@ -18,7 +21,7 @@ packages:
 - git: https://github.com/tomjaguarpaw/haskell-opaleye
   commit: 77aa17e0e83da0a16fd8daf770833d6e00ca88e6
 - git: https://github.com/f-o-a-m/hs-web3.git
-  commit: 82d755f453a9fde24be6fdbd8ec08131e1c4f7b2
+  commit: f23250203451d1697c963ea7dadec615abd0a08b
 - git: https://github.com/f-o-a-m/purescript-bridge.git
   commit: 8b7fd3909d7f9b416e5976e1b76c1b04671d63b0
 - git: https://github.com/f-o-a-m/servant-purescript.git
@@ -35,4 +38,3 @@ packages:
   subdirs:
   - uuid
   - uuid-types
- 
