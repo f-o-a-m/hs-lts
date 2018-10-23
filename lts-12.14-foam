@@ -25,7 +25,7 @@ packages:
 - git: https://github.com/f-o-a-m/purescript-bridge.git
   commit: 8b7fd3909d7f9b416e5976e1b76c1b04671d63b0
 - git: https://github.com/f-o-a-m/servant-purescript.git
-  commit: 50d666400f1cf0132794bdfc78f15307761ef20a
+  commit: 95175965185c3a23eb850b3bdf375c8a36896d28
 - git: https://github.com/f-o-a-m/servant-subscriber.git
   commit: 4780d3bb27b6bea225a91b5bfd3c0ffd1c23a999
 - git: https://github.com/f-o-a-m/ipfs-api.git
@@ -36,6 +36,8 @@ packages:
   commit: 8935346192e67631b97c1a52f6644ba5ed48a1a2
 - git: https://github.com/f-o-a-m/uuid.git
   commit: f8f7bee57dd42ea57258ce4afe9870758bd027f5
+- git: https://github.com/f-o-a-m/prometheus.git
+  commit: ea00d1fb7116cd9b9b4dec5fe891832a934b039a
   subdirs:
   - uuid
   - uuid-types
