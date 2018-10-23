@@ -1,5 +1,5 @@
-name: lts-11.7-foam-3
-resolver: lts-11.7
+name: lts-12.1-foam-1
+resolver: lts-12.1
 
 packages:
 - vinyl-0.8.1.1
