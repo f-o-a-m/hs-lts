@@ -39,5 +39,5 @@ packages:
   subdirs:
   - uuid
   - uuid-types
- - git: https://github.com/f-o-a-m/prometheus.git
-   commit: ea00d1fb7116cd9b9b4dec5fe891832a934b039a
+- git: https://github.com/f-o-a-m/prometheus.git
+  commit: ea00d1fb7116cd9b9b4dec5fe891832a934b039a
