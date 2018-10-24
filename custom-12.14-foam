@@ -18,6 +18,11 @@ packages:
   subdirs:
   - composite-base
   - composite-opaleye
+- git: https://github.com/f-o-a-m/uuid.git
+  commit: f8f7bee57dd42ea57258ce4afe9870758bd027f5
+  subdirs:
+  - uuid
+  - uuid-types
 - git: https://github.com/tomjaguarpaw/haskell-opaleye
   commit: 77aa17e0e83da0a16fd8daf770833d6e00ca88e6
 - git: https://github.com/f-o-a-m/hs-web3.git
@@ -36,8 +41,3 @@ packages:
   commit: 9adf77e574cd830caa2cfd2c7afcd61ac0f039a2
 - git: https://github.com/gazay/faker.git
   commit: 8935346192e67631b97c1a52f6644ba5ed48a1a2
-- git: https://github.com/f-o-a-m/uuid.git
-  commit: f8f7bee57dd42ea57258ce4afe9870758bd027f5
-  subdirs:
-  - uuid
-  - uuid-types
