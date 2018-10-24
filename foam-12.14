@@ -29,7 +29,7 @@ packages:
 - git: https://github.com/f-o-a-m/purescript-bridge.git
   commit: 8b7fd3909d7f9b416e5976e1b76c1b04671d63b0
 - git: https://github.com/f-o-a-m/servant-purescript.git
-  commit: 95175965185c3a23eb850b3bdf375c8a36896d28
+  commit: 09513b22ce5bf324272850a5efa9c66a5a3bb136
 - git: https://github.com/f-o-a-m/servant-subscriber.git
   commit: 4780d3bb27b6bea225a91b5bfd3c0ffd1c23a999
 - git: https://github.com/f-o-a-m/ipfs-api.git
