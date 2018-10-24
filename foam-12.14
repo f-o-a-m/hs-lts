@@ -33,7 +33,7 @@ packages:
 - git: https://github.com/f-o-a-m/servant-subscriber.git
   commit: 4780d3bb27b6bea225a91b5bfd3c0ffd1c23a999
 - git: https://github.com/f-o-a-m/ipfs-api.git
-  commit: aa8ae13fa31b3ec22822bed97e1f67498093c782
+  commit: 53b305930a3d94c48cd4baf7c30311fa913802aa
 - git: https://github.com/f-o-a-m/prometheus.git
   commit: ea00d1fb7116cd9b9b4dec5fe891832a934b039a
 - git: https://github.com/f-o-a-m/bloodhound.git
