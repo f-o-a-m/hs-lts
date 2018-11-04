@@ -1,5 +1,5 @@
-name: lts-12.4-foam
-resolver: lts-12.14
+name: ghc-8.4.4-foam
+resolver: lts-12.16
 
 packages:
 - vinyl-0.8.1.1
@@ -40,3 +40,7 @@ packages:
   commit: 9adf77e574cd830caa2cfd2c7afcd61ac0f039a2
 - git: https://github.com/gazay/faker.git
   commit: 8935346192e67631b97c1a52f6644ba5ed48a1a2
+- servant-0.13.0.1
+- servant-client-core-0.13.0.1
+- servant-server-0.13.0.1
+- servant-client-0.13.0.1
